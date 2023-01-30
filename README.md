@@ -1,2 +1,2 @@
-# hackahui-blog.github.io
+# HackaHui.github.io
 my blog for code
